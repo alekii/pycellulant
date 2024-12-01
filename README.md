@@ -33,7 +33,7 @@ Getting started with **pycellulant** is simple and can be broken down into the f
 
 ## Signing up
 
-To sign up for Cellulant Checkout public API visit [Cellulant-Checkout](https://dev-portal.tingg.africa/checkout-signup)
+To sign up for Cellulant public API visit [Cellulant-API](https://dev-portal.tingg.africa/accounts/create)
 
 ## Installation
 
